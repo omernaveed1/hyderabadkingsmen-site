@@ -145,3 +145,52 @@ html, body {
 /* Mobile */
 @media (max-width: 640px) {
   .
+
+/* Language toggle button */
+.lang-toggle {
+  margin-left: 24px;
+  padding: 4px 12px;
+  border: 1px solid var(--primary) !important;
+  border-radius: 4px;
+  color: var(--primary) !important;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+.lang-toggle:hover {
+  background: var(--primary);
+  color: var(--black) !important;
+  border-bottom: 1px solid var(--primary) !important;
+}
+.lang-toggle[lang="ur"] {
+  font-size: 18px;
+  font-family: "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", serif;
+  padding: 2px 12px;
+}
+
+/* RTL / Urdu page styling */
+body.lang-ur {
+  font-family: "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", "Segoe UI", sans-serif;
+  font-size: 17px;
+  line-height: 1.9;
+}
+body.lang-ur .site-nav a { margin-left: 0; margin-right: 24px; }
+body.lang-ur .post-body { text-align: right; }
+body.lang-ur .post-body h2, body.lang-ur .post-body h3 {
+  border-left: none;
+  border-right: 4px solid var(--primary);
+  padding-left: 0;
+  padding-right: 12px;
+}
+body.lang-ur .post-body table { text-align: right; }
+body.lang-ur .recent-posts h2, body.lang-ur .sections h2, body.lang-ur .related h2 {
+  border-left: none;
+  border-right: 4px solid var(--primary);
+  padding-left: 0;
+  padding-right: 12px;
+}
+body.lang-ur .section-card {
+  border-left: none;
+  border-right: 4px solid var(--primary);
+}
