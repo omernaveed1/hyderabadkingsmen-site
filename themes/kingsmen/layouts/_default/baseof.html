@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en-IN">
+<html lang="{{ .Language.Lang }}-PK" {{ if eq .Language.Lang "ur" }}dir="rtl"{{ end }}>
 <head>
 {{ partial "head.html" . }}
 </head>
-<body>
+<body{{ if eq .Language.Lang "ur" }} class="lang-ur"{{ end }}>
 {{ partial "header.html" . }}
 <main class="container">
 {{ block "main" . }}{{ end }}
