@@ -1,11 +1,14 @@
 :root {
-  --orange: #FF6F1F;
+  --primary: #D4AF37;   /* royal gold — Hyderabad Kingsmen brand */
   --black: #000000;
-  --gold: #FFD400;
+  --gold-light: #FFD700;
   --grey: #f4f4f4;
   --text: #1a1a1a;
   --muted: #666;
   --max: 1100px;
+  /* legacy aliases for stylesheet bits not yet refactored */
+  --orange: #D4AF37;
+  --gold: #FFD700;
 }
 
 * { box-sizing: border-box; }
@@ -141,8 +144,4 @@ html, body {
 
 /* Mobile */
 @media (max-width: 640px) {
-  .hero h1 { font-size: 32px; }
-  .post-header h1 { font-size: 28px; }
-  .site-nav a { margin-left: 12px; font-size: 14px; }
-  .brand-name { display: none; }
-}
+  .

@@ -1,6 +1,6 @@
 ---
 title: "Player Profiles"
-description: "Profiles of every Sunrisers Hyderabad player and the wider India cricket squad."
+description: "Profiles of every Hyderabad Kingsmen player and the wider Pakistan and PSL cricket pool."
 ---
 
-The full Sunrisers Hyderabad squad and the India players we track week-to-week. Each profile covers role, form, key stats, and what to watch.
+The full Hyderabad Kingsmen squad — overseas captain Marnus Labuschagne, Pakistan stars like Saim Ayub and Sharjeel Khan, and the p

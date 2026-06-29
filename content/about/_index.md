@@ -1,8 +1,8 @@
 ---
 title: "About Hyderabad Kingsmen"
-description: "An independent cricket publication with a Hyderabad heartbeat."
+description: "An independent cricket publication covering Hyderabad Kingsmen, the PSL, and Pakistan cricket."
 ---
 
-Hyderabad Kingsmen is an independent cricket publication covering the Sunrisers Hyderabad franchise, the IPL, Indian cricket, and the global game. We publish original analysis, player profiles, and venue guides. Where we use facts from other sources, we cite them at the bottom of the post.
+Hyderabad Kingsmen is an independent cricket publication covering the **Hyderabad Kingsmen** franchise, the **Pakistan Super League (PSL)**, Pakistan's national teams, and cricket across Sindh. We publish original match analysis, player profiles, and venue guides — in English and Urdu.
 
-We are not affiliated with the Sunrisers Hyderabad franchise, the BCCI, or the ICC.
+Where we use facts from other sources (ESPNcricinfo, t

@@ -1,6 +1,6 @@
 ---
 title: "Venue Guides"
-description: "Pitches, records, and how every IPL ground plays."
+description: "Pitches, records, and how every PSL ground plays — from Niaz Stadium to Gaddafi to the National Stadium."
 ---
 
-Each venue, what its pitch does, who scores there, and what records have been set on it.
+Every PSL venue, what its pitch 

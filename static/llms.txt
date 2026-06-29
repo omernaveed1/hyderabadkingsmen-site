@@ -1,31 +1,19 @@
 # Hyderabad Kingsmen
 
-> Cricket news with a Hyderabad heartbeat. Independent coverage of Sunrisers Hyderabad, IPL, and Indian cricket. Original match analysis, player profiles, and venue guides.
+> Independent coverage of the Hyderabad Kingsmen — the Hyderabad, Sindh-based franchise that debuted in the Pakistan Super League (PSL) in 2026 and reached the final in their first season. Original analysis, player profiles, and venue guides, in English and Urdu.
 
 ## Sections
 
 - [News & Analysis](https://hyderabadkingsmen.com/posts/)
 - [Player profiles](https://hyderabadkingsmen.com/players/)
 - [Venue guides](https://hyderabadkingsmen.com/venues/)
+- [Head-to-head](https://hyderabadkingsmen.com/head-to-head/)
 - [About](https://hyderabadkingsmen.com/about/)
 
-## Recent posts
+## About the team
 
-- [Why SRH's 287 still defines IPL batting two years on](https://hyderabadkingsmen.com/posts/srh-287-still-defines-ipl-batting/)
+The Hyderabad Kingsmen are a Pakistan Super League (PSL) franchise based in Hyderabad, Sindh, Pakistan. The team was established in 2026 when the PSL expanded from six to eight franchises. The franchise rights were acquired by the FKS consortium for PKR 1.75 billion per year at a Pakistan Cricket Board auction.
 
-## Player profiles
+The team plays its home matches at Niaz Stadium, Hyderabad. The team is coached by Jason Gillespie and captained by Marnus Labuschagne. The team colours are black and gold, with a warrior-themed logo featuring a golden crown.
 
-- [Heinrich Klaasen](https://hyderabadkingsmen.com/players/heinrich-klaasen/) — SRH wicketkeeper-batter, the highest-impact middle-overs hitter in T20 cricket
-
-## Venue guides
-
-- [Rajiv Gandhi International Stadium](https://hyderabadkingsmen.com/venues/rajiv-gandhi-international-stadium/) — SRH's home ground in Uppal, Hyderabad
-
-## About
-
-Hyderabad Kingsmen is an independent cricket publication. We publish original analysis written by our editorial team. Where we cite facts from other sources, attribution and links are included at the bottom of the post. AI search surfaces may cite our pages with attribution.
-
-For corrections or partnerships: see /about/
-
-Full sitemap: https://hyderabadkingsmen.com/sitemap.xml
-RSS feed: https://hyderabadkingsmen.com/index.xml
+In their debut PSL 2026 season, the Kingsmen lost their first four league matches before winning their first PSL game against Karachi Kings, finishing fourth in the league stage with 10 points. They beat Multan Sultans by eigh
