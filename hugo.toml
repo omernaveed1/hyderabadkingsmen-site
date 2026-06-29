@@ -8,30 +8,61 @@ summaryLength = 30
 paginate = 12
 
 [languages]
-  [languages.en]
-    languageCode = "en-PK"
-    languageName = "English"
-    title = "Hyderabad Kingsmen"
-    weight = 1
-  [languages.ur]
-    languageCode = "ur-PK"
-    languageName = "اردو"
-    title = "حیدرآباد کنگزمن"
-    weight = 2
-    [languages.ur.params]
-      description = "حیدرآباد کنگزمن، پی ایس ایل، اور پاکستانی کرکٹ کی غیر جانبدار خبریں، تجزیہ، اور کھلاڑیوں کے پروفائلز۔"
+[languages.en]
+languageCode = "en-PK"
+languageName = "English"
+title = "Hyderabad Kingsmen"
+weight = 1
+
+[languages.ur]
+languageCode = "ur-PK"
+languageName = "Urdu"
+title = "Hyderabad Kingsmen"
+weight = 2
 
 [params]
-  description = "Independent coverage of Hyderabad Kingsmen, the PSL, and Pakistan cricket. Match analysis, player profiles, venue guides — from a Hyderabad heartbeat."
-  author = "Hyderabad Kingsmen"
-  twitter = "HydKingsmen"
-  primaryColor = "#D4AF37"
-  secondaryColor = "#000000"
-  accentColor = "#FFD700"
+description = "Independent coverage of Hyderabad Kingsmen, the PSL, and Pakistan cricket. Match analysis, player profiles, venue guides from a Hyderabad heartbeat."
+author = "Hyderabad Kingsmen"
+twitter = "HydKingsmen"
+primaryColor = "#D4AF37"
+secondaryColor = "#000000"
+accentColor = "#FFD700"
 
 [menu]
-  [[menu.main]]
-    name = "News"
-    url = "/posts/"
-    weight = 10
-  [
+[[menu.main]]
+name = "News"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+name = "Players"
+url = "/players/"
+weight = 20
+
+[[menu.main]]
+name = "Venues"
+url = "/venues/"
+weight = 30
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 40
+
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML", "RSS"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[sitemap]
+changefreq = "daily"
+priority = 0.5
+filename = "sitemap.xml"
