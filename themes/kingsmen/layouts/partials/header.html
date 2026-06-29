@@ -8,6 +8,20 @@
       {{ range .Site.Menus.main }}
         <a href="{{ .URL | relURL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a>
       {{ end }}
+      {{- $current := .Language.Lang -}}
+      {{- range .Site.Languages -}}
+        {{- if ne .Lang $current -}}
+          {{- $altLang := .Lang -}}
+          {{- $targetLink := "" -}}
+          {{- range $.Translations -}}
+            {{- if eq .Lang $altLang -}}{{- $targetLink = .RelPermalink -}}{{- end -}}
+          {{- end -}}
+          {{- if eq $targetLink "" -}}
+            {{- if eq $altLang "ur" -}}{{- $targetLink = "/ur/" -}}{{- else -}}{{- $targetLink = "/" -}}{{- end -}}
+          {{- end -}}
+          <a class="lang-toggle" href="{{ $targetLink }}" lang="{{ $altLang }}" {{ if eq $altLang "ur" }}dir="rtl"{{ end }}>{{- if eq $altLang "ur" -}}اردو{{- else -}}English{{- end -}}</a>
+        {{- end -}}
+      {{- end -}}
     </nav>
   </div>
 </header>
