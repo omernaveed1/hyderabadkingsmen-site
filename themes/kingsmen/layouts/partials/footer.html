@@ -1,0 +1,10 @@
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; {{ now.Year }} {{ .Site.Title }}. Independent cricket coverage.</p>
+    <p class="footer-links">
+      <a href="{{ "/about/" | relURL }}">About</a> &middot;
+      <a href="{{ "/index.xml" | relURL }}">RSS</a> &middot;
+      <a href="https://twitter.com/{{ .Site.Params.twitter }}">@{{ .Site.Params.twitter }}</a>
+    </p>
+  </div>
+</footer>

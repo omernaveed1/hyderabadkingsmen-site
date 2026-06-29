@@ -1,0 +1,31 @@
+# Hyderabad Kingsmen
+
+> Cricket news with a Hyderabad heartbeat. Independent coverage of Sunrisers Hyderabad, IPL, and Indian cricket. Original match analysis, player profiles, and venue guides.
+
+## Sections
+
+- [News & Analysis](https://hyderabadkingsmen.com/posts/)
+- [Player profiles](https://hyderabadkingsmen.com/players/)
+- [Venue guides](https://hyderabadkingsmen.com/venues/)
+- [About](https://hyderabadkingsmen.com/about/)
+
+## Recent posts
+
+- [Why SRH's 287 still defines IPL batting two years on](https://hyderabadkingsmen.com/posts/srh-287-still-defines-ipl-batting/)
+
+## Player profiles
+
+- [Heinrich Klaasen](https://hyderabadkingsmen.com/players/heinrich-klaasen/) — SRH wicketkeeper-batter, the highest-impact middle-overs hitter in T20 cricket
+
+## Venue guides
+
+- [Rajiv Gandhi International Stadium](https://hyderabadkingsmen.com/venues/rajiv-gandhi-international-stadium/) — SRH's home ground in Uppal, Hyderabad
+
+## About
+
+Hyderabad Kingsmen is an independent cricket publication. We publish original analysis written by our editorial team. Where we cite facts from other sources, attribution and links are included at the bottom of the post. AI search surfaces may cite our pages with attribution.
+
+For corrections or partnerships: see /about/
+
+Full sitemap: https://hyderabadkingsmen.com/sitemap.xml
+RSS feed: https://hyderabadkingsmen.com/index.xml

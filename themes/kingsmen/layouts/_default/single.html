@@ -1,0 +1,44 @@
+{{ define "main" }}
+<article class="post">
+  {{ with .Params.banner }}
+    <img class="post-banner" src="{{ . }}" alt="{{ $.Title }}">
+  {{ end }}
+
+  <header class="post-header">
+    <p class="post-kicker">{{ with .Params.kicker }}{{ . }}{{ else }}{{ .Section | upper }}{{ end }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="post-meta">
+      {{ .Date.Format "January 2, 2006" }}
+      &middot; {{ .ReadingTime }} min read
+      {{ with .Params.author }} &middot; By {{ . }}{{ end }}
+    </p>
+  </header>
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.tags }}
+  <footer class="post-footer">
+    <p class="post-tags">
+      {{ range . }}<a class="tag" href="{{ "/tags/" | relURL }}{{ . | urlize }}/">#{{ . }}</a> {{ end }}
+    </p>
+  </footer>
+  {{ end }}
+</article>
+
+{{ $related := (where .Site.RegularPages "Section" .Section) | first 4 }}
+{{ if gt (len $related) 1 }}
+<aside class="related">
+  <h2>Related</h2>
+  <div class="post-grid">
+    {{ range $related }}{{ if ne .Permalink $.Permalink }}
+      <article class="post-card">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Summary | truncate 120 }}</p>
+      </article>
+    {{ end }}{{ end }}
+  </div>
+</aside>
+{{ end }}
+{{ end }}

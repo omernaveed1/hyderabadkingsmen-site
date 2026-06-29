@@ -1,0 +1,52 @@
+baseURL = "https://hyderabadkingsmen.com/"
+languageCode = "en-IN"
+title = "Hyderabad Kingsmen"
+theme = "kingsmen"
+enableRobotsTXT = true
+enableEmoji = false
+summaryLength = 30
+paginate = 12
+
+[params]
+  description = "Cricket news with a Hyderabad heartbeat. Independent coverage of Sunrisers Hyderabad, IPL, and Indian cricket."
+  author = "Hyderabad Kingsmen"
+  twitter = "HydKingsmen"
+  primaryColor = "#FF6F1F"
+  secondaryColor = "#000000"
+  accentColor = "#FFD400"
+
+[menu]
+  [[menu.main]]
+    name = "News"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    name = "Players"
+    url = "/players/"
+    weight = 20
+  [[menu.main]]
+    name = "Venues"
+    url = "/venues/"
+    weight = 30
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true   # allow HTML in markdown for tables in player profiles
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"

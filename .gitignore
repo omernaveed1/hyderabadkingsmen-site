@@ -1,0 +1,16 @@
+# Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local
+node_modules/
+*.log

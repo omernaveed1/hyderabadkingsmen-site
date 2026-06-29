@@ -1,0 +1,20 @@
+{{ define "main" }}
+<header class="section-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="tagline">{{ . }}</p>{{ end }}
+  {{ with .Content }}<div class="section-intro">{{ . }}</div>{{ end }}
+</header>
+
+<div class="post-grid">
+  {{ range .Paginator.Pages }}
+    <article class="post-card">
+      {{ with .Params.banner }}<a href="{{ $.Permalink }}"><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></a>{{ end }}
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <p class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
+      <p>{{ .Summary }}</p>
+    </article>
+  {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

@@ -1,0 +1,7 @@
+name = "Kingsmen"
+license = "MIT"
+description = "Cricket-focused blog theme for Hyderabad Kingsmen"
+min_version = "0.110.0"
+
+[author]
+  name = "Hyderabad Kingsmen"
