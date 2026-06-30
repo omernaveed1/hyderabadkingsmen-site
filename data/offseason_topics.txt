@@ -1,0 +1,53 @@
+# One topic per line. Comments allowed (lines starting with #).
+# Used by scripts/daily_post.py when no fresh news is found in the RSS feeds.
+# Rotation is by day-of-year so the same prompt won't repeat in a week.
+# Broad Pakistan cricket coverage — independent publication, NOT the official Kingsmen franchise.
+# Add or replace freely.
+
+# Pakistan national team analysis (high SEO value)
+Babar Azam's recent Test form: what the numbers say beyond the average.
+Mohammad Rizwan as Pakistan T20I captain: tactical evolution over the past two years.
+Shaheen Afridi's new-ball spell breakdown: why he is still the world's best left-arm seamer.
+Naseem Shah's red-ball workload management: PCB's biggest selection question.
+Saim Ayub's rise from PSL to Pakistan T20I opener: scouting report.
+Why Pakistan struggles in away Tests: a structural problem PCB has not solved.
+The case for Pakistan picking specialist Test openers in the 2026-27 cycle.
+Pakistan's bowling depth in 2026: a comparison with India, Australia, and England.
+
+# PSL-wide analysis (eight teams)
+PSL 2026 retrospective: ranking all eight team campaigns from worst to first.
+Peshawar Zalmi's title-winning formula: what other PSL teams should copy.
+Islamabad United's collapse from league toppers to Eliminator 2 loss: post-mortem.
+The Lahore Qalandars rebuild: why their 2026 was the franchise's worst in years.
+Karachi Kings ownership shakeup rumors: what it means for PSL economics.
+Multan Sultans' Mohammad Rizwan era: dynasty or decline?
+Quetta Gladiators and Sarfaraz Ahmed's leadership: a steady but ageing core.
+Rawalpindiz' debut season as the OTHER expansion team: comparison with Kingsmen.
+The PSL salary cap debate: should overseas player slots increase to attract bigger names?
+PSL 2027 fixture rumors: which teams have a friendlier schedule?
+
+# Hyderabad Kingsmen (focused but not exclusive)
+The Kingsmen's PSL 2026 final loss to Peshawar Zalmi: what actually went wrong tactically.
+Marnus Labuschagne's captaincy lessons from PSL 2026.
+Niaz Stadium retrospective: how it played across PSL 2026 home games.
+Riley Meredith vs other PSL 2026 new-ball bowlers: comparative analysis.
+Sharjeel Khan's PSL 2026 resurgence and what it means for his Pakistan T20I claim.
+The Kingsmen off-season: realistic retention targets and likely losses.
+
+# ICC events
+Pakistan's preparation for the next T20 World Cup: squad strengths and weaknesses.
+Champions Trophy hosting lessons: what Pakistan got right and wrong as host.
+ICC ODI rankings: where Pakistan sits and what it would take to reach number one.
+The case for and against Pakistan's current Test captain in the 2026 WTC cycle.
+
+# Pakistan domestic cricket
+Quaid-e-Azam Trophy 2025-26: the standout performers PSL teams should pick.
+Pakistan Cup ODI tournament: which regional team produced the most international prospects?
+The state of Pakistan U-19 cricket after the latest Asia Cup.
+Why Sindh produces more Test-class batters than other regions.
+
+# Off-the-pitch
+PCB governance reform: where the latest restructuring stands.
+The Pakistan-India bilateral series question: a realistic timeline.
+Broadcasting rights for PSL: a comparison with IPL and BBL.
+Women's PSL: the case for launching it in 2027.

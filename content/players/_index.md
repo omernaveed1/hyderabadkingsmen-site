@@ -1,6 +1,6 @@
 ---
 title: "Player Profiles"
-description: "Profiles of every Hyderabad Kingsmen player and the wider Pakistan and PSL cricket pool."
+description: "Profiles of Pakistan national team players, every PSL squad, and rising domestic talent."
 ---
 
-The full Hyderabad Kingsmen squad — overseas captain Marnus Labuschagne, Pakistan stars like Saim Ayub and Sharjeel Khan, and the p
+Profiles of every PSL squad, the Pakistan national team, and rising domestic players. Each profile covers role, form, key stats, and what to watch.

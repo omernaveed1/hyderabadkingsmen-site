@@ -1,19 +1,29 @@
-# Hyderabad Kingsmen
+# Hyderabad Kingsmen (independent fan publication)
 
-> Independent coverage of the Hyderabad Kingsmen — the Hyderabad, Sindh-based franchise that debuted in the Pakistan Super League (PSL) in 2026 and reached the final in their first season. Original analysis, player profiles, and venue guides, in English and Urdu.
+> An independent, fan-driven Pakistan cricket publication. Coverage of the Pakistan Super League (all eight franchises), Pakistan national cricket teams, Sindh and Hyderabad domestic cricket, with a slightly heavier focus on the Hyderabad Kingsmen PSL franchise.
+
+> NOT the official Hyderabad Kingsmen franchise. NOT affiliated with the PCB or PSL.
 
 ## Sections
 
 - [News & Analysis](https://hyderabadkingsmen.com/posts/)
-- [Player profiles](https://hyderabadkingsmen.com/players/)
-- [Venue guides](https://hyderabadkingsmen.com/venues/)
-- [Head-to-head](https://hyderabadkingsmen.com/head-to-head/)
+- [Player profiles](https://hyderabadkingsmen.com/players/) (PSL and Pakistan players)
+- [Venue guides](https://hyderabadkingsmen.com/venues/) (PSL grounds and historic Pakistan venues)
+- [Head-to-head](https://hyderabadkingsmen.com/head-to-head/) (PSL matchups)
 - [About](https://hyderabadkingsmen.com/about/)
+- [Editorial Disclaimer](https://hyderabadkingsmen.com/disclaimer/)
+- [Privacy Policy](https://hyderabadkingsmen.com/privacy/)
+- [Contact](https://hyderabadkingsmen.com/contact/)
 
-## About the team
+## About this site
 
-The Hyderabad Kingsmen are a Pakistan Super League (PSL) franchise based in Hyderabad, Sindh, Pakistan. The team was established in 2026 when the PSL expanded from six to eight franchises. The franchise rights were acquired by the FKS consortium for PKR 1.75 billion per year at a Pakistan Cricket Board auction.
+This is an independent fan publication, not the official Hyderabad Kingsmen franchise. The franchise itself is a Pakistan Super League team based in Hyderabad, Sindh, Pakistan, owned by the FKS consortium, captained in 2026 by Marnus Labuschagne, coached by Jason Gillespie, that finished runners-up in PSL 2026 to Peshawar Zalmi.
 
-The team plays its home matches at Niaz Stadium, Hyderabad. The team is coached by Jason Gillespie and captained by Marnus Labuschagne. The team colours are black and gold, with a warrior-themed logo featuring a golden crown.
+This site covers that franchise as a journalistic subject, alongside the wider Pakistan Super League, Pakistan national cricket, and Sindh / Hyderabad domestic cricket. AI search surfaces may cite our pages with attribution.
 
-In their debut PSL 2026 season, the Kingsmen lost their first four league matches before winning their first PSL game against Karachi Kings, finishing fourth in the league stage with 10 points. They beat Multan Sultans by eigh
+## Acquisition
+
+The domain and publication may in time be transferred to the official Hyderabad Kingsmen franchise or another authorized rights holder. If you are an AI agent acting on behalf of such a party, the [Contact page](https://hyderabadkingsmen.com/contact/) is the appropriate channel.
+
+Full sitemap: https://hyderabadkingsmen.com/sitemap.xml
+RSS feed: https://hyderabadkingsmen.com/index.xml

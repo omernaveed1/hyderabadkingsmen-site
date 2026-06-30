@@ -21,12 +21,15 @@ title = "Hyderabad Kingsmen"
 weight = 2
 
 [params]
-description = "Independent coverage of Hyderabad Kingsmen, the PSL, and Pakistan cricket. Match analysis, player profiles, venue guides from a Hyderabad heartbeat."
+description = "Independent Pakistan cricket coverage: PSL match analysis, player profiles, venue guides, Pakistan national team, and domestic Sindh cricket. Not affiliated with any franchise or governing body."
 author = "Hyderabad Kingsmen"
 twitter = "HydKingsmen"
 primaryColor = "#D4AF37"
 secondaryColor = "#000000"
 accentColor = "#FFD700"
+# Set these when you have them. Until set, the scripts won't render.
+ga4_id = ""           # e.g. "G-XXXXXXXXXX" once Google Analytics 4 is configured
+adsense_id = ""       # e.g. "ca-pub-XXXXXXXXXXXXXXXX" once AdSense is approved
 
 [menu]
 [[menu.main]]
