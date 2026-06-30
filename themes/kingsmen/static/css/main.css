@@ -108,8 +108,10 @@ body.lang-ur .section-card {
   color: #fff;
   margin-bottom: 48px;
 }
-.hero h1 { font-size: 48px; margin: 0 0 12px 0; }
-.hero .tagline { font-size: 18px; color: #ccc; max-width: 600px; margin: 0 auto; }
+.hero h1 { font-size: 44px; margin: 0 0 12px 0; line-height: 1.15; }
+.hero .tagline { font-size: 18px; color: #ccc; max-width: 700px; margin: 0 auto; }
+.hero-kicker { color: var(--primary); font-weight: 700; letter-spacing: 2px; font-size: 13px; margin: 0 0 16px 0; }
+.hero-byline { color: #888; font-size: 13px; margin-top: 16px; }
 
 /* Post grid */
 .recent-posts h2, .sections h2, .related h2 {
@@ -191,10 +193,4 @@ body.lang-ur .section-card {
 .site-footer a { color: var(--orange); text-decoration: none; }
 .footer-links a { margin: 0 6px; }
 
-/* Mobile */
-@media (max-width: 640px) {
-  .hero h1 { font-size: 32px; }
-  .post-header h1 { font-size: 28px; }
-  .site-nav a { margin-left: 12px; font-size: 14px; }
-  .brand-name { display: none; }
-}
+/
