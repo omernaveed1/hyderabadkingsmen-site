@@ -1,0 +1,59 @@
+name: Daily Kingsmen post
+
+# Runs every day at 06:00 Pakistan time (01:00 UTC).
+# To trigger manually: Actions tab -> Daily Kingsmen post -> Run workflow.
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Optional topic to write about today (overrides RSS picker)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pages: read
+
+concurrency:
+  group: daily-post
+  cancel-in-progress: false
+
+jobs:
+  generate-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          pip install --quiet anthropic requests feedparser beautifulsoup4 Pillow python-slugify python-dateutil PyYAML
+
+      - name: Generate today's post
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TOPIC_OVERRIDE:  ${{ github.event.inputs.topic }}
+        run: |
+          python scripts/daily_post.py
+
+      - name: Commit and push if a post was generated
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No new files. Skipping commit."
+            exit 0
+          fi
+          git config user.email "agents@hyderabadkingsmen.com"
+          git config user.name "Hyderabad Kingsmen agent"
+          git add -A
+          git commit -m "Daily post $(date -u +%Y-%m-%d)"
+          git push
