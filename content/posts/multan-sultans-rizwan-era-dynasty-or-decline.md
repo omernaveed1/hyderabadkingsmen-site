@@ -1,55 +1,51 @@
 ---
-title: "Multan Sultans: Dynasty Building or Slow Decline Under Rizwan?"
+title: "Multan Sultans: Dynasty or Decline After Rizwan?"
 slug: "multan-sultans-rizwan-era-dynasty-or-decline"
-date: "2026-07-12T04:22:14+05:00"
+date: "2026-08-17T02:16:08+05:00"
 draft: false
-description: "Mohammad Rizwan has led Multan Sultans to back-to-back PSL titles, but questions are mounting about whether this franchise can sustain its dominance or whether cracks are already forming."
+description: "Mohammad Rizwan built Multan Sultans into PSL's most dominant force, but cracks are showing. Is the franchise entering a new era or beginning a slow slide?"
 banner: "/banners/multan-sultans-rizwan-era-dynasty-or-decline.png"
 kicker: "ANALYSIS"
 author: "Hyderabad Kingsmen"
 translationKey: "multan-sultans-rizwan-era-dynasty-or-decline"
-tags: ["psl", "multan-sultans", "mohammad-rizwan", "pakistan-cricket", "psl-captaincy", "franchise-cricket", "t20-cricket"]
+tags: ["psl", "multan-sultans", "mohammad-rizwan", "pakistan-cricket", "franchise-cricket", "psl-captaincy", "t20-cricket"]
 categories: ["Analysis"]
 ---
 
-Mohammad Rizwan has done things at Multan Sultans that no captain in PSL history has managed quite so convincingly. Back-to-back titles. A culture of relentless professionalism. A franchise that, for a period, felt genuinely unbeatable. But the more interesting question right now is not what Rizwan has already built. It is whether it holds.
+Mohammad Rizwan handed back the Multan Sultans captaincy after leading them to back-to-back PSL titles in 2021 and 2022, and the question hanging over Multan ever since is a simple but uncomfortable one: was it the system, or was it the man?
 
-## The Architecture of a Mini-Dynasty
+## The Rizwan Factor Is Bigger Than People Admit
 
-The Sultans under Rizwan are not an accident. The franchise has been deliberate about its identity: disciplined fielding, top-heavy batting anchored by Rizwan himself, and a bowling attack assembled around skill rather than star power. Khushdil Shah's lower-order hitting, Usama Mir's wrist spin, Ihsanullah's raw pace. These are not names that dominate headlines, but together they form a functional, cohesive unit.
+When Rizwan took charge at Multan, the franchise was a mid-table outfit searching for identity. What followed was a transformation that had as much to do with leadership culture as it did with squad depth. Rizwan's relentless intensity, his public commitment to team-first cricket, and his refusal to treat PSL as anything less than a Test series set a tone that filtered through the dressing room.
 
-That cohesion is Rizwan's fingerprint. He is a demanding leader, famously intense, and Multan have mirrored that energy. When other franchises were cycling through overseas marquee signings and hoping for the best, Multan were quietly building squad depth and a recognisable brand of cricket.
+The two consecutive titles were not flukes. They were built on disciplined batting, smart overseas selections, and an uncanny ability to win close games. That last part matters enormously in a T20 competition where margins are razor-thin and momentum is currency.
 
-Two titles in succession is not luck. It is process.
+The numbers tell part of the story. During those title-winning campaigns, Multan had the most cohesive top-order in the competition and regularly defended or chased totals that comparable squads would have found awkward. Rizwan himself averaged well above forty in both seasons while keeping wicket at a high level. He was not just the captain. He was the load-bearing wall.
 
-## Where the Questions Begin
+## What Came After
 
-Here is the problem with dynasty talk in the PSL: the draft and retention system means roster continuity is difficult to sustain. The very players who carried Multan through those title runs are now assets that rival franchises covet and the points economy may price out of Rizwan's reach.
+Since the back-to-back titles, Multan's results have been respectable but no longer dominant. They have remained competitive, retained quality overseas signings, and kept a recognisable core of Pakistan internationals. But the aura of inevitability that surrounded the franchise between 2021 and 2022 has quietly faded.
 
-There is also the matter of Rizwan himself. His value to Pakistan's national setup across all three formats places enormous physical and mental demands on him. He is not just a PSL captain. He is Pakistan's first-choice wicketkeeper-batter in Tests, ODIs, and T20Is, carrying the national team's batting at a time when the top order remains unsettled. That workload does not get lighter.
+Some of this is natural regression. Every dynasty in franchise cricket faces it. Opponents study you, draft picks dry up once rivals identify your strengths, and the motivational edge that comes from building something blunts once the thing is built. Multan are not in crisis. They are, however, no longer the benchmark.
 
-Captains who are also the best player in the side tend to find that sustaining both roles simultaneously becomes harder as the years accumulate. Rizwan is still at or near his peak, but the window is not infinite.
+The captaincy transition also revealed something. Leadership in franchise cricket is not a tap you switch off and on. The habits of decision-making under pressure, the read on when to attack and when to hold, the trust players place in the person at slip or behind the stumps, all of that takes time to rebuild with a new captain. Multan have been working through that process.
 
-Then there is the broader competitive landscape. The PSL is becoming more balanced. Lahore Qalandars have invested heavily in their own infrastructure. The Hyderabad Kingsmen, as a new franchise still carving out their identity, represent exactly the kind of disruptive force that can upset settled hierarchies. New rosters, fresh overseas picks, and an absence of complacency can be dangerous for a champion side that other franchises have now had multiple seasons to study and prepare for.
+## The Wider Context: PSL Has Levelled Up
 
-Multan have film on them now. Everyone knows how Rizwan bats, how he sets fields, which bowlers he trusts in the powerplay. The counter-strategies are being built.
+It would be unfair to frame Multan's relative decline purely as an internal failure. The PSL as a competition has matured significantly. Lahore Qalandars found their own dynasty formula. Karachi Kings and Islamabad United continue to attract elite overseas talent. Peshawar Zalmi and Quetta Gladiators have invested smartly in domestic depth. The Hyderabad Kingsmen, the newest franchise, are adding further competition for quality players at the draft.
 
-## What a Sustained Dynasty Actually Requires
+In short, the PSL is harder to win now than it was in 2021 and 2022. The talent ceiling across franchises has risen. Multan winning two titles in that environment was a significant achievement. Not repeating it immediately is not evidence of collapse.
 
-For Multan to convert two titles into something that genuinely earns the word dynasty, a few things need to happen.
+But the franchise does face genuine strategic questions. Rizwan is no longer the centrally dominant figure he once was at the club. Pakistan's broader white-ball setup has evolved around him differently at national level. Where Multan go from here depends heavily on whether their management can replicate the cultural infrastructure Rizwan built, rather than simply chasing his personal statistics as a template.
 
-First, the squad needs to evolve without losing its character. The retention calls in the coming cycles will define whether this era has legs. Losing one or two of the core bowling options could unravel the balance quickly.
+## What to Watch
 
-Second, the franchise needs a genuine succession plan in the batting order. If Rizwan has an off tournament, who absorbs that pressure? Right now, the answer is not obvious enough.
+Three things will define whether Multan reclaim dynasty status or settle into competent also-rans.
 
-Third, and perhaps most critically, Multan need a defining overseas import who can consistently deliver in the back half of an innings. Their overseas selections have been competent but rarely match-winning. In a knockout game, that gap can cost you everything.
+First, their overseas picks. In both title seasons, Multan's foreign selections punched above their reputation and fitted the team's style precisely. That kind of scouting intelligence is difficult to maintain and worth watching closely.
 
-## What to Watch Next
+Second, the emergence of a genuine homegrown match-winner from within the squad. Every great franchise era needs someone who grows inside the system and becomes irreplaceable. Multan currently lack that player post-Rizwan dominance.
 
-The upcoming PSL season's auction and retention decisions will be the clearest signal of where this Multan project is headed. Watch which players the franchise fights hardest to keep, because that will reveal whether management believes the current core is still the core.
+Third, captaincy stability and clarity. A franchise cannot operate at peak level while cycling through leadership models. Multan need to commit to a captain and build around him across at least two to three seasons.
 
-Watch also how Rizwan performs for Pakistan in the intervening international schedule. A fatigued or out-of-form Rizwan arriving at the PSL is a very different proposition to the one who has lifted the trophy twice.
-
-And keep an eye on the franchises around Multan. If Lahore, Karachi, or even a resurgent Kingsmen come in with sharper planning and hungrier squads, the Sultans will be tested in a way the last two seasons simply did not require.
-
-Dynasty or decline. Right now, it is genuinely too close to call, and that in itself tells you something about where Multan stand.
+The Rizwan era at Multan Sultans was real, it was earned, and it left a genuine legacy. Whether it proves to be a foundation or merely a peak depends on decisions being made right now, in meetings that have nothing to do with cricket and everything to do with vision.
