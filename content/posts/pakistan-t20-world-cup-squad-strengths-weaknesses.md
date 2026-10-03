@@ -1,55 +1,53 @@
 ---
-title: "Pakistan's T20 World Cup Prep: Strengths, Gaps and Hard Truths"
+title: "Pakistan's T20 World Cup Prep: Strengths, Gaps and Hard Choices"
 slug: "pakistan-t20-world-cup-squad-strengths-weaknesses"
-date: "2026-07-23T04:11:13+05:00"
+date: "2026-10-03T05:57:17+05:00"
 draft: false
-description: "Pakistan's T20 World Cup preparations are underway, but real questions remain about batting depth, death bowling and strategic clarity. Here is an honest assessment."
+description: "Pakistan's T20 World Cup preparations are underway but serious questions remain about the batting middle order, the death bowling unit, and whether the selectors have the nerve to make difficult calls."
 banner: "/banners/pakistan-t20-world-cup-squad-strengths-weaknesses.png"
 kicker: "ANALYSIS"
 author: "Hyderabad Kingsmen"
 translationKey: "pakistan-t20-world-cup-squad-strengths-weaknesses"
-tags: ["pakistan-cricket", "t20-world-cup", "babar-azam", "pakistan-squad-analysis", "pakistan-t20i", "shaheen-shah-afridi", "psl"]
+tags: ["pakistan-cricket", "t20-world-cup", "pakistan-t20", "babar-azam", "squad-analysis", "shaheen-shah-afridi", "psl"]
 categories: ["Analysis"]
 ---
 
-Pakistan's next T20 World Cup cycle has begun in earnest, and the national side carries genuine match-winning potential in certain departments. Yet honest analysis reveals structural problems that could cost them when it matters most. The selectors and team management have decisions to make, and they need to make them now, not in the week before a knockout game.
+Pakistan's T20 World Cup cycle is moving forward, but not without turbulence. The selectors are assembling pieces, the players are putting in shifts across PSL and domestic cricket, but the picture that emerges is one of genuine promise sitting uncomfortably alongside structural problems that have persisted for years.
 
-## The Angle: Talent Is Not the Problem
+## The Real Story: Same Old Questions, Shrinking Time
 
-Pakistan have never lacked talent. The problem, recurring across decades and formats, is translating that talent into a coherent, consistent team identity. The T20 format punishes hesitation and rewards clarity. Right now, Pakistan look like a side still working out who they are.
+Every World Cup preparation cycle for Pakistan follows a familiar script. Hopes are high early, promising performers emerge in the PSL, and then somewhere between domestic optimism and international execution, things unravel. The question now is whether this cycle breaks that pattern, or repeats it.
 
-Babar Azam's return to white-ball leadership after last year's turbulence adds a layer of complexity. He remains one of the most technically complete batters in the world, and his presence at the top of the order gives the side an anchor. But anchors in T20 cricket need to double as accelerators. The debate around Babar's strike rate in the powerplay is not going away, and Pakistan cannot afford to keep sidestepping it with selection loyalty.
+The honest answer is: it depends on which Pakistan shows up.
 
-## Strengths Worth Acknowledging
+## What Pakistan Has Going for It
 
-**The pace attack** is the clearest asset. Shaheen Shah Afridi, when fit and firing, is among the best new-ball operators in global T20 cricket. Naseem Shah brings genuine pace and has grown into the shortest format. Haris Rauf's death-over experience at the PSL and franchise level globally gives Pakistan a credible three-pronged seam attack, something not every top-eight side can claim.
+At the top of the order, Pakistan remain formidable. Babar Azam's form may have drawn criticism in recent months for a perceived lack of aggression in T20 cricket, but his ability to anchor an innings and construct a total is still among the best in the world. Mohammad Rizwan continues to be one of the most consistent run-scorers in T20 internationals globally, and the two together provide a foundation most sides would envy.
 
-**Mohammad Rizwan** behind the stumps continues to be a player of serious value. His ability to rotate strike and manufacture runs in the middle overs, even against the best spin attacks, is underrated. Rizwan is not flashy, but he wins matches quietly.
+The bowling attack, at its best, is genuinely frightening. Shaheen Shah Afridi, when fully fit and in rhythm, is a match-winner in the powerplay and at death. Haris Rauf brings pace and courage in equal measure. Naseem Shah, still remarkably young, is developing into a complete fast bowling option. On pitches with even a hint of assistance, this trio can dismantle batting line-ups.
 
-**The spin department** has depth. Shadab Khan brings leg-spin and lower-order hitting. Abrar Ahmed is a genuine wicket-taker who has troubled top batters internationally. If selected and trusted, this pair can complement each other well across different phases.
+The PSL has also been doing its job as a talent conveyor. Spinners, lower-order hitting options, and young pace bowlers are emerging. The talent pool is not the problem.
 
-## Weaknesses That Cannot Be Ignored
+## The Weaknesses Pakistan Cannot Afford to Ignore
 
-**Batting depth beyond the top four** remains Pakistan's most persistent T20 vulnerability. When Babar, Rizwan, Fakhar Zaman and one other contributor fail together, the lower order too often collapses under pressure. There is no five or six who consistently wins matches from tricky positions. The PSL offers a window to identify such a player, and selectors must be watching closely.
+The middle order remains Pakistan's most stubborn structural problem. The position between numbers four and six has been a revolving door for years. Players are blooded, dropped, recalled, and discarded before they find their feet. Azam Khan offers explosive power but consistency at international level has eluded him. Iftikhar Ahmed is experienced but generates legitimate debate about whether his ceiling is high enough for a World Cup campaign.
 
-**Death bowling** is a concern. Shaheen and Rauf are proven, but an injury to either changes the equation dramatically. Pakistan's backup death options have been exposed in recent series. The side needs a fourth seamer capable of executing yorkers and cutters at the death, not just filling an XI slot.
+What Pakistan desperately needs is a finisher who can win games from position 40 for 4. They have not reliably had one in years, and the World Cup schedule punishes that absence brutally.
 
-**Fielding** continues to leak runs. In close T20 knockout games, a dropped catch or a misfield at the boundary can be the difference between a semifinal and an early flight home. Pakistan have improved marginally, but the standard is still well below the top sides in world cricket.
+Death bowling is the second serious concern. Shaheen can be expensive when his radar is off. Haris Rauf, for all his bravery, has had tournaments where opposition batters have clocked him. Pakistan need a proper death bowling backup plan, not just the hope that their frontline options fire on the same night.
 
-**Tactical flexibility** is perhaps the softest but most important gap. The best T20 teams adapt mid-game. Pakistan's in-game strategic adjustments have been reactive rather than proactive too many times in recent memory.
+The fielding, let us be honest, remains below the standard of the top four T20 sides in the world. Dropped catches and misfields have cost Pakistan in knockout cricket before. There is no evidence yet that this has been addressed as a systemic priority.
 
-## What It Means Going Forward
+## What the Selectors Must Decide
 
-The selection panel must use every bilateral series and PSL outing between now and the tournament as a genuine audition, not a loyalty exercise. Fixed combinations that protect reputation ahead of match-day performance will cost Pakistan later.
+The selection panel faces choices that require nerve. Does Babar Azam bat at number three, where he is most comfortable, or does Pakistan find a way to get a more explosive option at the top to maximise powerplay scoring? That conversation has been going on for three years. It needs a resolution, not another deferral.
 
-The opening partnership needs a firm decision. Babar and Rizwan at the top is a proven but contested combination. If they stay together, the team structure around them must account for the need to accelerate from ball one. If Pakistan experiment with alternatives, they must do it early enough to build actual partnerships, not familiarity on paper.
+The spin department also needs a clear pecking order. Shadab Khan's all-round value is obvious, but who backs him up? Abrar Ahmed has shown he can be a mystery weapon at international level, but his role and workload management need clarity before a major tournament, not during one.
 
-For the pace attack, managing Shaheen's workload through the PSL and early bilateral cricket is not optional. Bowling him into the ground before a World Cup would be a familiar and painful mistake.
+The selectors must also commit to a core group now and give those players a sustained run. Chopping and changing eleven men on the eve of a World Cup is a pattern Pakistan must resist.
 
 ## What to Watch Next
 
-The PSL is the immediate proving ground. Performances under pressure, particularly from middle-order batters and backup seamers, will tell the real story. Watch which players show the temperament to win matches in the final three overs, on both sides of the game.
+The upcoming T20I series against visiting sides before the World Cup will be the critical laboratory. Watch whether the middle order is given specific roles and allowed to grow into them. Watch whether the death bowling combinations are being tested deliberately rather than reactively. Watch Babar Azam's strike rate in the powerplay, because that number will tell you more about Pakistan's readiness than any press conference will.
 
-Bilateral T20I series in the lead-up to the tournament will also be critical for combination-building. The management cannot simply announce a squad two weeks before the World Cup and hope chemistry follows. That is not preparation. That is hope dressed as planning.
-
-Pakistan have the pieces. The question, as always, is whether the people in charge have the clarity and the courage to put them together properly.
+Pakistan have the raw material to win a T20 World Cup. They have had it for some time. The question, as always, is whether the systems around that raw material are strong enough to convert potential into silverware. The clock is ticking.
